@@ -5,7 +5,7 @@ It's a mini game that I made a long time ago and it took me about a week and a h
 
 It only works on Windows OS and does not have a keyboard, specifically the left and right arrows.
 
-> **Right arrow** right engine.
-> **Left arrow** left engine.
-> In case you get stuck in a corner, if you hold the **Space** for a while, it will jump out and you can try to move.
+* **Right arrow** right engine.
+* **Left arrow** left engine.
+* In case you get stuck in a corner, if you hold the **Space** for a while, it will jump out and you can try to move.
 
